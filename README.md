@@ -1,4 +1,5 @@
 # Bitwise NOT Operator in Java
+
 This simple Java program demonstrates the use of the **bitwise NOT (~)** operator.
 
 ## 🧠 What is Bitwise NOT?
